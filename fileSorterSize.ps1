@@ -1,6 +1,6 @@
-$files = Get-ChildItem "C:\Program Files (x86)" | Where-Object { -not $_.PSIsContainer}
+$files = Get-ChildItem "C:\Users\Joakim Sandum Thrane\OneDrive - Innlandet fylkeskommune\Skolefag" | Where-Object { -not $_.PSIsContainer}
 
-$folders = Get-ChildItem "C:\Program Files (x86)" | Where-Object { -not $_.PSIsContainer}
+$folders = Get-ChildItem "C:\Users\Joakim Sandum Thrane\OneDrive - Innlandet fylkeskommune\Skolefag" | Where-Object { -not $_.PSIsContainer}
 
 $files | Sort-Object Length -Descending
 
