@@ -37,7 +37,7 @@ foreach ($User in $AD_Users)
 }
     #create homefolder, and set access rights for it
 $domain = 'gitarlydas.no'
-$initials = ''
+$initials = '$User_name'
 $homedir = 'H:\'
 
 $folder = New-Item $homedir -Type Directory
