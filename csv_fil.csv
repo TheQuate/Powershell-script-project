@@ -1,0 +1,2 @@
+DisplayName,SamAccountName,UserPrincipalName,UserFirstname,UserLastname,Description,Password,OU
+Jonas Holte,jholte,jholte@ProxLab.local,Jonas,Holte,IT Bruker,Velkommen123!,OU=Brukere,DC=ProxLab,DC=local
