@@ -1,0 +1,2 @@
+DisplayName,SamAccountName,UserPrincipalName,UserFirstname,UserLastname,Description,Password,OU
+Ola Nordmann,onordmann,ola.nordmann@ProxLab.local,Ola,Nordmann,IT-avdelingen,P@ssw0rd123,"OU=Brukere,DC=ProxLab,DC=local"
