@@ -1,0 +1,2 @@
+Firstname,Lastname,Maildomain,SAM,OU,Password,Description
+User,Test01,ProxLab.local,utest01,"OU=Brukere,DC=proxlab,DC=local",P@ssw0rd,Test User
